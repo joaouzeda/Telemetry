@@ -1,7 +1,7 @@
 # **Telemetry**
 
 
-# Project Description
+# *Project Description*
 
 The objective is to create an equipment monitoring system that allows the 
 user to track the voltage and current readings of a system, as well as the
@@ -11,18 +11,18 @@ exported to Prometheus and viewed on a Grafana dashboard. In addition to the
 system readings, the project also reads an RFID card and publishes the data
 following the same steps as the telemetry data.
 
-# Author
+# *Author*
 
 1. [@joaouzeda](https://github.com/joaouzeda)
 
-# Project Features
+# *Project Features*
 
 1. Read the system voltage using a shunt and an INA266
 3. Implement an hour meter based on current calculation
 4. Read the RFID card
 6. Publish all necessary information to the broker
 
-# Technologies Used
+# *Technologies Used*
 
 1. ESP32 
 3. MQTT
@@ -32,7 +32,7 @@ following the same steps as the telemetry data.
 9. INA226 + shunt
 10. Raspberry pi3
 
-# General Information
+# *General Information*
 
 Compiler: VsCode 1.88.1
 MCU: ESP32 
