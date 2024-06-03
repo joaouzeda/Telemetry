@@ -104,9 +104,10 @@ LiquidCrystal_I2C lcd(LCDADRESS, 16, 2);
 // -----------------------------------------------------------------
 // ----Variables----
 float geralA;
-float Volt;
 float ABombH;
 float ATrac;
+float Volt;
+
 int hourmeter;
 int hourmeterT;
 int hourmeterB;
