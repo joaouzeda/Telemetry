@@ -30,10 +30,10 @@ following the same steps as the telemetry data.
 
 # *General Information*
 
-Compiler: VsCode 1.88.1
-MCU: ESP32 
-Board: Dev module 38 pins
-Date: 2024, May
+Compiler: VsCode 1.88.1  <br/>
+MCU: ESP32  <br/>
+Board: Dev module 38 pins <br/>
+Date: 2024, May <br/>
 Author: [@joaouzeda](https://github.com/joaouzeda)
 
 # *Badges*
