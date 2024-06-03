@@ -14,26 +14,26 @@ following the same steps as the telemetry data.
 # *Project Features*
 
 1. Read the system voltage using a shunt and an INA266
-3. Implement an hour meter based on current calculation
-4. Read the RFID card
-6. Publish all necessary information to the broker
+2. Implement an hour meter based on current calculation
+3. Read the RFID card
+4. Publish all necessary information to the broker
 
 # *Technologies Used*
 
 1. ESP32 
-3. MQTT
-4. WiFi
-6. RTOS
-7. Arduino component
-9. INA226 + shunt
-10. Raspberry pi3
+2. MQTT
+3. WiFi
+4. RTOS
+5. Arduino component
+6. INA226 + shunt
+7. Raspberry pi3
 
 # *General Information*
 
 Compiler: VsCode 1.88.1  <br/>
 MCU: ESP32  <br/>
 Board: Dev module 38 pins <br/>
-Date: 2024, May <br/>
+Date: 2024, June <br/>
 Author: [@joaouzeda](https://github.com/joaouzeda)
 
 # *Badges*
