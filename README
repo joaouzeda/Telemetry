@@ -11,10 +11,6 @@ exported to Prometheus and viewed on a Grafana dashboard. In addition to the
 system readings, the project also reads an RFID card and publishes the data
 following the same steps as the telemetry data.
 
-# *Author*
-
-1. [@joaouzeda](https://github.com/joaouzeda)
-
 # *Project Features*
 
 1. Read the system voltage using a shunt and an INA266
@@ -38,6 +34,7 @@ Compiler: VsCode 1.88.1
 MCU: ESP32 
 Board: Dev module 38 pins
 Date: 2024, May
+Author: [@joaouzeda](https://github.com/joaouzeda)
 
 # *Badges*
 
