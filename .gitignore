@@ -2,3 +2,5 @@ build/
 *.log
 .vscode/
 .devcontainer/
+dependencies.lock
+managed_components/
